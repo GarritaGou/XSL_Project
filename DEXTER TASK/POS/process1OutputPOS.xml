@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt/>
+      <sourceDesc>
+        <recordingStmt/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc/>
+    <profileDesc>
+      <creation/>
+      <langUsage/>
+      <textClass/>
+      <textDesc/>
+      <particDesc/>
+      <settingDesc>
+        <setting/>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text>
+    <body id="b">
+      <p id="b.1">
+        <seg id="b.1.1">Hi, everyone. I know you're all busy so I'll keep this briefing quick. I have some important information about a change in the management team. As you already know, our head of department, James Watson, is leaving his position at the end of this week. His replacement is starting at the end of the next month. In the meantime, we'll continue with our projects as usual. </seg>
+      </p>
+      <p id="b.2">
+        <seg id="b.2.1">I have two more quick points. Firstly, there will be some improvements made to the staff car park next month for a few weeks. It will be closed during that time. </seg>
+      </p>
+      <p id="b.3">
+        <seg id="b.3.1">Don't worry, we've found a solution. We can use the local church car park until our own one is ready. If you arrive before 8.30 a.m., please use our small car park on Brown Street, and if you arrive after that, you should go directly to the church car park. It's only a five-minute walk away. But they need it in the evenings, so you have to leave before 6 p.m. Sorry about that – I know how much you all love working late! </seg>
+      </p>
+      <p id="b.4">
+        <seg id="b.4.1">The other thing I wanted to tell you about is that the canteen has now introduced a cashless payment system. So, you can't use cash for payments any more. You can pay directly with your smartphone or you can pay using your company ID card. The total amount put on your company ID card comes off your salary at the end of each month. </seg>
+      </p>
+      <p id="b.5">
+        <seg id="b.5.1">OK. That's it? Are there any questions? </seg>
+      </p>
+    </body>
+	<data>
+   <sent id="b.1.1" function="verb" start="17" end="20"/>
+   <sent id="b.1.1" function="verb" start="74" end="77"/>
+   <sent id="b.1.1" function="verb" start="160" end="163"/>
+   <sent id="b.1.1" function="verb" start="207" end="213"/>
+   <sent id="b.3.1" function="verb" start="20" end="24"/>
+   <sent id="b.3.1" function="verb" start="45" end="47"/>
+   <sent id="b.3.1" function="verb" start="110" end="115"/>
+   <sent id="b.3.1" function="verb" start="142" end="144"/>
+   <sent id="b.3.1" function="verb" start="223" end="224"/>
+   <sent id="b.3.1" function="verb" start="303" end="306"/>
+   <sent id="b.3.1" function="verb" start="343" end="347"/>
+   <sent id="b.3.1" function="verb" start="384" end="387"/>
+   <sent id="b.3.1" function="verb" start="406" end="409"/>
+   <sent id="b.4.1" function="verb" start="19" end="24"/>
+   <sent id="b.4.1" function="verb" start="29" end="32"/>
+   <sent id="b.4.1" function="verb" start="72" end="81"/>
+   <sent id="b.4.1" function="verb" start="124" end="126"/>
+   <sent id="b.4.1" function="verb" start="164" end="166"/>
+   <sent id="b.4.1" function="verb" start="209" end="211"/>
+   <sent id="b.4.1" function="verb" start="213" end="217"/>
+   <sent id="b.3.1" function="verb" start="41" end="43"/>
+   <sent id="b.2.1" function="verb" start="3" end="6"/>
+   <sent id="b.2.1" function="verb" start="51" end="52"/>
+   <sent id="b.2.1" function="verb" start="72" end="75"/>
+   <sent id="b.2.1" function="verb" start="135" end="136"/>
+   <sent id="b.2.1" function="verb" start="138" end="143"/>
+   <sent id="b.3.1" function="verb" start="7" end="11"/>
+   <sent id="b.3.1" function="verb" start="193" end="198"/>
+   <sent id="b.3.1" function="verb" start="335" end="338"/>
+   <sent id="b.1.1" function="verb" start="46" end="49"/>
+   <sent id="b.1.1" function="verb" start="42" end="44"/>
+   <sent id="b.1.1" function="verb" start="204" end="205"/>
+   <sent id="b.1.1" function="verb" start="269" end="270"/>
+   <sent id="b.1.1" function="verb" start="272" end="279"/>
+   <sent id="b.1.1" function="verb" start="330" end="332"/>
+   <sent id="b.1.1" function="verb" start="334" end="341"/>
+   <sent id="b.2.1" function="verb" start="46" end="49"/>
+   <sent id="b.2.1" function="verb" start="130" end="133"/>
+   <sent id="b.3.1" function="verb" start="1" end="2"/>
+   <sent id="b.3.1" function="verb" start="16" end="18"/>
+   <sent id="b.3.1" function="verb" start="93" end="94"/>
+   <sent id="b.3.1" function="verb" start="216" end="221"/>
+   <sent id="b.3.1" function="verb" start="283" end="286"/>
+   <sent id="b.3.1" function="verb" start="261" end="262"/>
+   <sent id="b.4.1" function="verb" start="43" end="45"/>
+   <sent id="b.4.1" function="verb" start="64" end="66"/>
+   <sent id="b.4.1" function="verb" start="118" end="120"/>
+   <sent id="b.4.1" function="verb" start="160" end="162"/>
+   <sent id="b.4.1" function="verb" start="205" end="207"/>
+   <sent id="b.4.1" function="verb" start="258" end="260"/>
+   <sent id="b.4.1" function="verb" start="286" end="290"/>
+   <sent id="b.5.1" function="verb" start="9" end="10"/>
+   <sent id="b.5.1" function="verb" start="16" end="18"/>
+   <sent id="b.1.1" function="verb" start="25" end="27"/>
+   <sent id="b.3.1" function="verb" start="411" end="417"/>
+   <sent id="b.1.1" function="noun" start="94" end="104"/>
+   <sent id="b.1.1" function="noun" start="5" end="12"/>
+   <sent id="b.1.1" function="noun" start="56" end="63"/>
+   <sent id="b.1.1" function="noun" start="114" end="119"/>
+   <sent id="b.1.1" function="noun" start="128" end="137"/>
+   <sent id="b.1.1" function="noun" start="139" end="142"/>
+   <sent id="b.1.1" function="noun" start="170" end="173"/>
+   <sent id="b.1.1" function="noun" start="178" end="187"/>
+   <sent id="b.1.1" function="noun" start="190" end="194"/>
+   <sent id="b.1.1" function="noun" start="196" end="201"/>
+   <sent id="b.1.1" function="noun" start="219" end="226"/>
+   <sent id="b.1.1" function="noun" start="247" end="250"/>
+   <sent id="b.1.1" function="noun" start="257" end="267"/>
+   <sent id="b.1.1" function="noun" start="288" end="290"/>
+   <sent id="b.1.1" function="noun" start="304" end="308"/>
+   <sent id="b.1.1" function="noun" start="318" end="325"/>
+   <sent id="b.1.1" function="noun" start="352" end="359"/>
+   <sent id="b.2.1" function="noun" start="23" end="28"/>
+   <sent id="b.2.1" function="noun" start="59" end="70"/>
+   <sent id="b.2.1" function="noun" start="84" end="88"/>
+   <sent id="b.2.1" function="noun" start="90" end="92"/>
+   <sent id="b.2.1" function="noun" start="94" end="97"/>
+   <sent id="b.2.1" function="noun" start="104" end="108"/>
+   <sent id="b.2.1" function="noun" start="120" end="124"/>
+   <sent id="b.2.1" function="noun" start="157" end="160"/>
+   <sent id="b.3.1" function="noun" start="28" end="35"/>
+   <sent id="b.3.1" function="noun" start="59" end="64"/>
+   <sent id="b.3.1" function="noun" start="66" end="68"/>
+   <sent id="b.3.1" function="noun" start="70" end="73"/>
+   <sent id="b.3.1" function="noun" start="89" end="91"/>
+   <sent id="b.3.1" function="noun" start="242" end="247"/>
+   <sent id="b.3.1" function="noun" start="249" end="251"/>
+   <sent id="b.3.1" function="noun" start="253" end="256"/>
+   <sent id="b.3.1" function="noun" start="168" end="172"/>
+   <sent id="b.3.1" function="noun" start="174" end="179"/>
+   <sent id="b.3.1" function="noun" start="156" end="158"/>
+   <sent id="b.3.1" function="noun" start="358" end="360"/>
+   <sent id="b.3.1" function="noun" start="129" end="131"/>
+   <sent id="b.4.1" function="noun" start="11" end="15"/>
+   <sent id="b.4.1" function="noun" start="56" end="62"/>
+   <sent id="b.4.1" function="noun" start="94" end="100"/>
+   <sent id="b.4.1" function="noun" start="102" end="107"/>
+   <sent id="b.4.1" function="noun" start="187" end="196"/>
+   <sent id="b.4.1" function="noun" start="137" end="144"/>
+   <sent id="b.4.1" function="noun" start="128" end="131"/>
+   <sent id="b.4.1" function="noun" start="270" end="276"/>
+   <sent id="b.4.1" function="noun" start="278" end="279"/>
+   <sent id="b.4.1" function="noun" start="281" end="284"/>
+   <sent id="b.4.1" function="noun" start="301" end="306"/>
+   <sent id="b.4.1" function="noun" start="315" end="317"/>
+   <sent id="b.4.1" function="noun" start="327" end="331"/>
+   <sent id="b.5.1" function="noun" start="30" end="38"/>
+   <sent id="b.3.1" function="noun" start="160" end="163"/>
+   <sent id="b.1.1" function="noun" start="235" end="237"/>
+   <sent id="b.4.1" function="noun" start="224" end="230"/>
+   <sent id="b.4.1" function="noun" start="232" end="233"/>
+   <sent id="b.4.1" function="noun" start="235" end="238"/>
+   <sent id="b.4.1" function="noun" start="251" end="256"/>
+   <sent id="b.1.1" function="preposition" start="106" end="110"/>
+   <sent id="b.1.1" function="preposition" start="121" end="122"/>
+   <sent id="b.1.1" function="preposition" start="145" end="146"/>
+   <sent id="b.1.1" function="preposition" start="175" end="176"/>
+   <sent id="b.1.1" function="preposition" start="228" end="229"/>
+   <sent id="b.1.1" function="preposition" start="239" end="240"/>
+   <sent id="b.1.1" function="preposition" start="281" end="282"/>
+   <sent id="b.1.1" function="preposition" start="292" end="293"/>
+   <sent id="b.1.1" function="preposition" start="311" end="312"/>
+   <sent id="b.1.1" function="preposition" start="343" end="346"/>
+   <sent id="b.1.1" function="preposition" start="361" end="362"/>
+   <sent id="b.2.1" function="preposition" start="77" end="78"/>
+   <sent id="b.2.1" function="preposition" start="110" end="112"/>
+   <sent id="b.2.1" function="preposition" start="145" end="150"/>
+   <sent id="b.3.1" function="preposition" start="117" end="122"/>
+   <sent id="b.3.1" function="preposition" start="165" end="166"/>
+   <sent id="b.3.1" function="preposition" start="200" end="204"/>
+   <sent id="b.3.1" function="preposition" start="75" end="79"/>
+   <sent id="b.3.1" function="preposition" start="235" end="236"/>
+   <sent id="b.3.1" function="preposition" start="369" end="373"/>
+   <sent id="b.4.1" function="preposition" start="133" end="135"/>
+   <sent id="b.4.1" function="preposition" start="177" end="180"/>
+   <sent id="b.4.1" function="preposition" start="262" end="263"/>
+   <sent id="b.4.1" function="preposition" start="319" end="320"/>
+   <sent id="b.4.1" function="preposition" start="308" end="309"/>
+   </data>
+  </text>
+</TEI.2>

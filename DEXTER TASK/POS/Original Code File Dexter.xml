@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<dexter_code_set>
+	  <metadata>
+		<text_file>final text.xml</text_file>
+		<last_modified>22-6-13 下午5:09</last_modified>
+	  </metadata>
+	  <data>
+		<type name="POS" red="128" green="255" blue="255" visible="true"/>
+		<type name="verb" parent="POS" red="64" green="128" blue="128" visible="true">
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>17</start_index>
+			<start_string>I kno</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>20</end_index>
+			<end_string>now y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>74</start_index>
+			<start_string>I hav</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>77</end_index>
+			<end_string>ave s</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>160</start_index>
+			<start_string>y kno</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>163</end_index>
+			<end_string>now, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>207</start_index>
+			<start_string>s lea</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>213</end_index>
+			<end_string>ing h</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>20</start_index>
+			<start_string>e fou</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>24</end_index>
+			<end_string>und a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>45</start_index>
+			<start_string>n use</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>47</end_index>
+			<end_string>use t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>110</start_index>
+			<start_string>u arr</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>115</end_index>
+			<end_string>ive b</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>142</start_index>
+			<start_string>e use</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>144</end_index>
+			<end_string>use o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>223</start_index>
+			<start_string>d go </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>224</end_index>
+			<end_string> go d</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>303</start_index>
+			<start_string>y nee</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>306</end_index>
+			<end_string>eed i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>343</start_index>
+			<start_string>o lea</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>347</end_index>
+			<end_string>ave b</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>384</start_index>
+			<start_string>I kno</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>387</end_index>
+			<end_string>now h</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>406</start_index>
+			<start_string>l lov</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>409</end_index>
+			<end_string>ove w</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>19</start_index>
+			<start_string>I wan</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>24</end_index>
+			<end_string>ted t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>29</start_index>
+			<start_string>o tel</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>32</end_index>
+			<end_string>ell y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>72</start_index>
+			<start_string>w int</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>81</end_index>
+			<end_string>ced a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>124</start_index>
+			<start_string>t use</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>126</end_index>
+			<end_string>use c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>164</start_index>
+			<start_string>n pay</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>166</end_index>
+			<end_string>pay d</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>209</start_index>
+			<start_string>n pay</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>211</end_index>
+			<end_string>pay u</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>213</start_index>
+			<start_string>y usi</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>217</end_index>
+			<end_string>ing y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>41</start_index>
+			<start_string>e can</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>43</end_index>
+			<end_string>can u</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>3</start_index>
+			<start_string>I hav</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>6</end_index>
+			<end_string>ave t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>51</start_index>
+			<start_string>l be </start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>52</end_index>
+			<end_string> be s</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>72</start_index>
+			<start_string>s mad</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>75</end_index>
+			<end_string>ade t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>135</start_index>
+			<start_string>l be </start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>136</end_index>
+			<end_string> be c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>138</start_index>
+			<start_string>e clo</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>143</end_index>
+			<end_string>sed d</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>7</start_index>
+			<start_string>t wor</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>11</end_index>
+			<end_string>rry, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>193</start_index>
+			<start_string>u arr</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>198</end_index>
+			<end_string>ive a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>335</start_index>
+			<start_string>u hav</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>338</end_index>
+			<end_string>ave t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>46</start_index>
+			<start_string>l kee</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>49</end_index>
+			<end_string>eep t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>42</start_index>
+			<start_string> I'll</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>44</end_index>
+			<end_string>'ll k</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>204</start_index>
+			<start_string>, is </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>205</end_index>
+			<end_string> is l</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>269</start_index>
+			<start_string>t is </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>270</end_index>
+			<end_string> is s</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>272</start_index>
+			<start_string>s sta</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>279</end_index>
+			<end_string>ing a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>330</start_index>
+			<start_string>we'll</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>332</end_index>
+			<end_string>'ll c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>334</start_index>
+			<start_string>l con</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>341</end_index>
+			<end_string>nue w</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>46</start_index>
+			<start_string>e wil</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>49</end_index>
+			<end_string>ill b</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>130</start_index>
+			<start_string>t wil</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>133</end_index>
+			<end_string>ill b</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>1</start_index>
+			<start_string>##Don</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>2</end_index>
+			<end_string>#Don'</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>16</start_index>
+			<start_string>we've</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>18</end_index>
+			<end_string>'ve f</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>93</start_index>
+			<start_string>e is </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>94</end_index>
+			<end_string> is r</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>216</start_index>
+			<start_string>u sho</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>221</end_index>
+			<end_string>uld g</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>283</start_index>
+			<start_string>e wal</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>286</end_index>
+			<end_string>alk a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>261</start_index>
+			<start_string>It's </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>262</end_index>
+			<end_string>t's o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>43</start_index>
+			<start_string>ut is</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>45</end_index>
+			<end_string> is t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>64</start_index>
+			<start_string>n has</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>66</end_index>
+			<end_string>has n</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>118</start_index>
+			<start_string>u can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>120</end_index>
+			<end_string>can't</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>160</start_index>
+			<start_string>u can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>162</end_index>
+			<end_string>can p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>205</start_index>
+			<start_string>u can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>207</end_index>
+			<end_string>can p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>258</start_index>
+			<start_string>t put</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>260</end_index>
+			<end_string>put o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>286</start_index>
+			<start_string>d com</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>290</end_index>
+			<end_string>mes o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.5.1</start_id>
+			<start_index>9</start_index>
+			<start_string>at's </start_string>
+			<end_id>b.5.1</end_id>
+			<end_index>10</end_index>
+			<end_string>t's i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.5.1</start_id>
+			<start_index>16</start_index>
+			<start_string>? Are</start_string>
+			<end_id>b.5.1</end_id>
+			<end_index>18</end_index>
+			<end_string>Are t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>25</start_index>
+			<start_string>ou're</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>27</end_index>
+			<end_string>'re a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>411</start_index>
+			<start_string>e wor</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>417</end_index>
+			<end_string>ing l</end_string>
+		  </token>
+		</type>
+		<type name="noun" parent="POS" red="128" green="192" blue="192" visible="true">
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>94</start_index>
+			<start_string>t inf</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>104</end_index>
+			<end_string>ion a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>5</start_index>
+			<start_string>, eve</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>12</end_index>
+			<end_string>one. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>56</start_index>
+			<start_string>s bri</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>63</end_index>
+			<end_string>ing q</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>114</start_index>
+			<start_string>a cha</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>119</end_index>
+			<end_string>nge i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>128</start_index>
+			<start_string>e man</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>137</end_index>
+			<end_string>ent t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>139</start_index>
+			<start_string>t tea</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>142</end_index>
+			<end_string>eam. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>170</start_index>
+			<start_string>r hea</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>173</end_index>
+			<end_string>ead o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>178</start_index>
+			<start_string>f dep</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>187</end_index>
+			<end_string>ent, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>190</start_index>
+			<start_string>, Jam</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>194</end_index>
+			<end_string>mes W</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>196</start_index>
+			<start_string>s Wat</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>201</end_index>
+			<end_string>son, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>219</start_index>
+			<start_string>s pos</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>226</end_index>
+			<end_string>ion a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>247</start_index>
+			<start_string>s wee</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>250</end_index>
+			<end_string>eek. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>257</start_index>
+			<start_string>s rep</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>267</end_index>
+			<end_string>ent i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>288</start_index>
+			<start_string>e end</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>290</end_index>
+			<end_string>end o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>304</start_index>
+			<start_string>t mon</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>308</end_index>
+			<end_string>nth. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>318</start_index>
+			<start_string>e mea</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>325</end_index>
+			<end_string>ime, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>352</start_index>
+			<start_string>r pro</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>359</end_index>
+			<end_string>cts a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>23</start_index>
+			<start_string>k poi</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>28</end_index>
+			<end_string>nts. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>59</start_index>
+			<start_string>e imp</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>70</end_index>
+			<end_string>nts m</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>84</start_index>
+			<start_string>e sta</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>88</end_index>
+			<end_string>aff c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>90</start_index>
+			<start_string>f car</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>92</end_index>
+			<end_string>car p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>94</start_index>
+			<start_string>r par</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>97</end_index>
+			<end_string>ark n</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>104</start_index>
+			<start_string>t mon</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>108</end_index>
+			<end_string>nth f</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>120</start_index>
+			<start_string>w wee</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>124</end_index>
+			<end_string>eks. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>157</start_index>
+			<start_string>t tim</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>160</end_index>
+			<end_string>ime. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>28</start_index>
+			<start_string>a sol</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>35</end_index>
+			<end_string>ion. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>59</start_index>
+			<start_string>l chu</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>64</end_index>
+			<end_string>rch c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>66</start_index>
+			<start_string>h car</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>68</end_index>
+			<end_string>car p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>70</start_index>
+			<start_string>r par</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>73</end_index>
+			<end_string>ark u</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>89</start_index>
+			<start_string>n one</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>91</end_index>
+			<end_string>one i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>242</start_index>
+			<start_string>e chu</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>247</end_index>
+			<end_string>rch c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>249</start_index>
+			<start_string>h car</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>251</end_index>
+			<end_string>car p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>253</start_index>
+			<start_string>r par</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>256</end_index>
+			<end_string>ark. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>168</start_index>
+			<start_string>n Bro</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>172</end_index>
+			<end_string>own S</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>174</start_index>
+			<start_string>n Str</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>179</end_index>
+			<end_string>eet, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>156</start_index>
+			<start_string>l car</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>158</end_index>
+			<end_string>car p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>358</start_index>
+			<start_string>6 p.m</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>360</end_index>
+			<end_string>p.m. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>129</start_index>
+			<start_string>0 a.m</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>131</end_index>
+			<end_string>a.m.,</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>11</start_index>
+			<start_string>r thi</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>15</end_index>
+			<end_string>ing I</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>56</start_index>
+			<start_string>e can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>62</end_index>
+			<end_string>een h</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>94</start_index>
+			<start_string>s pay</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>100</end_index>
+			<end_string>ent s</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>102</start_index>
+			<start_string>t sys</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>107</end_index>
+			<end_string>tem. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>187</start_index>
+			<start_string>r sma</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>196</end_index>
+			<end_string>one o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>137</start_index>
+			<start_string>r pay</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>144</end_index>
+			<end_string>nts a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>128</start_index>
+			<start_string>e cas</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>131</end_index>
+			<end_string>ash f</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>270</start_index>
+			<start_string>r com</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>276</end_index>
+			<end_string>any I</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>278</start_index>
+			<start_string>y ID </start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>279</end_index>
+			<end_string> ID c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>281</start_index>
+			<start_string>D car</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>284</end_index>
+			<end_string>ard c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>301</start_index>
+			<start_string>r sal</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>306</end_index>
+			<end_string>ary a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>315</start_index>
+			<start_string>e end</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>317</end_index>
+			<end_string>end o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>327</start_index>
+			<start_string>h mon</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>331</end_index>
+			<end_string>nth. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.5.1</start_id>
+			<start_index>30</start_index>
+			<start_string>y que</start_string>
+			<end_id>b.5.1</end_id>
+			<end_index>38</end_index>
+			<end_string>ons? </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>160</start_index>
+			<start_string>r par</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>163</end_index>
+			<end_string>ark o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>235</start_index>
+			<start_string>e end</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>237</end_index>
+			<end_string>end o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>224</start_index>
+			<start_string>r com</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>230</end_index>
+			<end_string>any I</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>232</start_index>
+			<start_string>y ID </start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>233</end_index>
+			<end_string> ID c</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>235</start_index>
+			<start_string>D car</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>238</end_index>
+			<end_string>ard. </end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>251</start_index>
+			<start_string>l amo</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>256</end_index>
+			<end_string>unt p</end_string>
+		  </token>
+		</type>
+		<type name="preposition" parent="POS" red="64" green="192" blue="192" visible="true">
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>106</start_index>
+			<start_string>n abo</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>110</end_index>
+			<end_string>out a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>121</start_index>
+			<start_string>e in </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>122</end_index>
+			<end_string> in t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>145</start_index>
+			<start_string>. As </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>146</end_index>
+			<end_string> As y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>175</start_index>
+			<start_string>d of </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>176</end_index>
+			<end_string> of d</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>228</start_index>
+			<start_string>n at </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>229</end_index>
+			<end_string> at t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>239</start_index>
+			<start_string>d of </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>240</end_index>
+			<end_string> of t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>281</start_index>
+			<start_string>g at </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>282</end_index>
+			<end_string> at t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>292</start_index>
+			<start_string>d of </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>293</end_index>
+			<end_string> of t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>311</start_index>
+			<start_string>. In </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>312</end_index>
+			<end_string> In t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>343</start_index>
+			<start_string>e wit</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>346</end_index>
+			<end_string>ith o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>361</start_index>
+			<start_string>s as </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>362</end_index>
+			<end_string> as u</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>77</start_index>
+			<start_string>e to </start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>78</end_index>
+			<end_string> to t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>110</start_index>
+			<start_string>h for</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>112</end_index>
+			<end_string>for a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>145</start_index>
+			<start_string>d dur</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>150</end_index>
+			<end_string>ing t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>117</start_index>
+			<start_string>e bef</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>122</end_index>
+			<end_string>ore 8</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>165</start_index>
+			<start_string>k on </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>166</end_index>
+			<end_string> on B</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>200</start_index>
+			<start_string>e aft</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>204</end_index>
+			<end_string>ter t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>75</start_index>
+			<start_string>k unt</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>79</end_index>
+			<end_string>til o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>235</start_index>
+			<start_string>y to </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>236</end_index>
+			<end_string> to t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>369</start_index>
+			<start_string>y abo</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>373</end_index>
+			<end_string>out t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>133</start_index>
+			<start_string>h for</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>135</end_index>
+			<end_string>for p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>177</start_index>
+			<start_string>y wit</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>180</end_index>
+			<end_string>ith y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>262</start_index>
+			<start_string>t on </start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>263</end_index>
+			<end_string> on y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>319</start_index>
+			<start_string>d of </start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>320</end_index>
+			<end_string> of e</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>308</start_index>
+			<start_string>y at </start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>309</end_index>
+			<end_string> at t</end_string>
+		  </token>
+		</type>
+		<type name="simple present" parent="VERBTENSES" red="255" green="192" blue="128" visible="true">
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>17</start_index>
+			<start_string>I kno</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>20</end_index>
+			<end_string>now y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>25</start_index>
+			<start_string>ou're</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>27</end_index>
+			<end_string>'re a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>74</start_index>
+			<start_string>I hav</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>77</end_index>
+			<end_string>ave s</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>160</start_index>
+			<start_string>y kno</start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>163</end_index>
+			<end_string>now, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.2.1</start_id>
+			<start_index>3</start_index>
+			<start_string>I hav</start_string>
+			<end_id>b.2.1</end_id>
+			<end_index>6</end_index>
+			<end_string>ave t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>1</start_index>
+			<start_string>##Don</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>2</end_index>
+			<end_string>#Don'</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>7</start_index>
+			<start_string>t wor</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>11</end_index>
+			<end_string>rry, </end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>41</start_index>
+			<start_string>e can</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>43</end_index>
+			<end_string>can u</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>110</start_index>
+			<start_string>u arr</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>115</end_index>
+			<end_string>ive b</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>142</start_index>
+			<start_string>e use</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>144</end_index>
+			<end_string>use o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>193</start_index>
+			<start_string>u arr</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>198</end_index>
+			<end_string>ive a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>261</start_index>
+			<start_string>It's </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>262</end_index>
+			<end_string>t's o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>283</start_index>
+			<start_string>e wal</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>286</end_index>
+			<end_string>alk a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>303</start_index>
+			<start_string>y nee</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>306</end_index>
+			<end_string>eed i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>384</start_index>
+			<start_string>I kno</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>387</end_index>
+			<end_string>now h</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>406</start_index>
+			<start_string>l lov</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>409</end_index>
+			<end_string>ove w</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>43</start_index>
+			<start_string>ut is</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>45</end_index>
+			<end_string> is t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>29</start_index>
+			<start_string>o tel</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>32</end_index>
+			<end_string>ell y</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>118</start_index>
+			<start_string>u can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>120</end_index>
+			<end_string>can't</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>160</start_index>
+			<start_string>u can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>162</end_index>
+			<end_string>can p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>205</start_index>
+			<start_string>u can</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>207</end_index>
+			<end_string>can p</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>258</start_index>
+			<start_string>t put</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>260</end_index>
+			<end_string>put o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>286</start_index>
+			<start_string>d com</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>290</end_index>
+			<end_string>mes o</end_string>
+		  </token>
+		  <token>
+			<start_id>b.5.1</start_id>
+			<start_index>9</start_index>
+			<start_string>at's </start_string>
+			<end_id>b.5.1</end_id>
+			<end_index>10</end_index>
+			<end_string>t's i</end_string>
+		  </token>
+		  <token>
+			<start_id>b.5.1</start_id>
+			<start_index>16</start_index>
+			<start_string>? Are</start_string>
+			<end_id>b.5.1</end_id>
+			<end_index>18</end_index>
+			<end_string>Are t</end_string>
+		  </token>
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>93</start_index>
+			<start_string>e is </start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>94</end_index>
+			<end_string> is r</end_string>
+		  </token>
+		</type>
+		<type name="present continuous" parent="VERBTENSES" red="255" green="128" blue="128" visible="true">
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>204</start_index>
+			<start_string>, is </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>213</end_index>
+			<end_string>ing h</end_string>
+		  </token>
+		  <token>
+			<start_id>b.1.1</start_id>
+			<start_index>269</start_index>
+			<start_string>t is </start_string>
+			<end_id>b.1.1</end_id>
+			<end_index>279</end_index>
+			<end_string>ing a</end_string>
+		  </token>
+		</type>
+		<type name="present perfect" parent="VERBTENSES" red="192" green="128" blue="128" visible="true">
+		  <token>
+			<start_id>b.3.1</start_id>
+			<start_index>16</start_index>
+			<start_string>we've</start_string>
+			<end_id>b.3.1</end_id>
+			<end_index>24</end_index>
+			<end_string>und a</end_string>
+		  </token>
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>64</start_index>
+			<start_string>n has</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>81</end_index>
+			<end_string>ced a</end_string>
+		  </token>
+		</type>
+		<type name="simple past" parent="VERBTENSES" red="192" green="128" blue="64" visible="true">
+		  <token>
+			<start_id>b.4.1</start_id>
+			<start_index>19</start_index>
+			<start_string>I wan</start_string>
+			<end_id>b.4.1</end_id>
+			<end_index>24</end_index>
+			<end_string>ted t</end_string>
+		  </token>
+		</type>
+		<type name="VERBTENSES" red="192" green="64" blue="64" visible="true"/>
+	  </data>
+	</dexter_code_set>

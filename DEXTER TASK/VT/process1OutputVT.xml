@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt/>
+      <sourceDesc>
+        <recordingStmt/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc/>
+    <profileDesc>
+      <creation/>
+      <langUsage/>
+      <textClass/>
+      <textDesc/>
+      <particDesc/>
+      <settingDesc>
+        <setting/>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <text>
+    <body id="b">
+      <p id="b.1">
+        <seg id="b.1.1">Hi, everyone. I know you're all busy so I'll keep this briefing quick. I have some important information about a change in the management team. As you already know, our head of department, James Watson, is leaving his position at the end of this week. His replacement is starting at the end of the next month. In the meantime, we'll continue with our projects as usual. </seg>
+      </p>
+      <p id="b.2">
+        <seg id="b.2.1">I have two more quick points. Firstly, there will be some improvements made to the staff car park next month for a few weeks. It will be closed during that time. </seg>
+      </p>
+      <p id="b.3">
+        <seg id="b.3.1">Don't worry, we've found a solution. We can use the local church car park until our own one is ready. If you arrive before 8.30 a.m., please use our small car park on Brown Street, and if you arrive after that, you should go directly to the church car park. It's only a five-minute walk away. But they need it in the evenings, so you have to leave before 6 p.m. Sorry about that – I know how much you all love working late! </seg>
+      </p>
+      <p id="b.4">
+        <seg id="b.4.1">The other thing I wanted to tell you about is that the canteen has now introduced a cashless payment system. So, you can't use cash for payments any more. You can pay directly with your smartphone or you can pay using your company ID card. The total amount put on your company ID card comes off your salary at the end of each month. </seg>
+      </p>
+      <p id="b.5">
+        <seg id="b.5.1">OK. That's it? Are there any questions? </seg>
+      </p>
+    </body>
+	<data>
+   <sent id="b.1.1" function="simple present" start="17" end="20"/>
+   <sent id="b.1.1" function="simple present" start="25" end="27"/>
+   <sent id="b.1.1" function="simple present" start="74" end="77"/>
+   <sent id="b.1.1" function="simple present" start="160" end="163"/>
+   <sent id="b.2.1" function="simple present" start="3" end="6"/>
+   <sent id="b.3.1" function="simple present" start="1" end="2"/>
+   <sent id="b.3.1" function="simple present" start="7" end="11"/>
+   <sent id="b.3.1" function="simple present" start="41" end="43"/>
+   <sent id="b.3.1" function="simple present" start="110" end="115"/>
+   <sent id="b.3.1" function="simple present" start="142" end="144"/>
+   <sent id="b.3.1" function="simple present" start="193" end="198"/>
+   <sent id="b.3.1" function="simple present" start="261" end="262"/>
+   <sent id="b.3.1" function="simple present" start="283" end="286"/>
+   <sent id="b.3.1" function="simple present" start="303" end="306"/>
+   <sent id="b.3.1" function="simple present" start="384" end="387"/>
+   <sent id="b.3.1" function="simple present" start="406" end="409"/>
+   <sent id="b.4.1" function="simple present" start="43" end="45"/>
+   <sent id="b.4.1" function="simple present" start="29" end="32"/>
+   <sent id="b.4.1" function="simple present" start="118" end="120"/>
+   <sent id="b.4.1" function="simple present" start="160" end="162"/>
+   <sent id="b.4.1" function="simple present" start="205" end="207"/>
+   <sent id="b.4.1" function="simple present" start="258" end="260"/>
+   <sent id="b.4.1" function="simple present" start="286" end="290"/>
+   <sent id="b.5.1" function="simple present" start="9" end="10"/>
+   <sent id="b.5.1" function="simple present" start="16" end="18"/>
+   <sent id="b.3.1" function="simple present" start="93" end="94"/>
+   <sent id="b.1.1" function="present continuous" start="204" end="213"/>
+   <sent id="b.1.1" function="present continuous" start="269" end="279"/>
+   <sent id="b.3.1" function="present perfect" start="16" end="24"/>
+   <sent id="b.4.1" function="present perfect" start="64" end="81"/>
+   <sent id="b.4.1" function="simple past" start="19" end="24"/>
+   </data>
+  </text>
+</TEI.2>
