@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<document>
+  <header>
+      <textfile>Texts/final text.txt</textfile>
+    
+  </header>
+    <body>
+      <paragraph>
+         <sentence>Hi, everyone.</sentence> 
+         <sentence>I <segment verbtenses="simple_present">know</segment> you're all busy so I'll keep this briefing quick.</sentence> 
+         <sentence>I <segment verbtenses="simple_present">have</segment> some important information about a change in the management team.</sentence> 
+         <sentence>As you already <segment verbtenses="simple_present">know</segment>, our head of department, James Watson, <segment verbtenses="present_continuous">is leaving</segment> his position at the end of this week.</sentence> 
+         <sentence>His replacement <segment verbtenses="present_continuous">is starting</segment> at the end of the next month.</sentence> 
+         <sentence>In the meantime, we'll continue with our projects as usual.</sentence>
+
+         <sentence>I <segment verbtenses="simple_present">have</segment> two more quick points.</sentence> 
+         <sentence>Firstly, there will be some improvements made to the staff car park next month for a few weeks.</sentence> 
+         <sentence>It will be closed during that time.</sentence>
+
+         <sentence>
+            <segment verbtenses="simple_present">Do</segment>n't <segment verbtenses="simple_present">worry</segment>, we<segment verbtenses="present_perfect">'ve found</segment> a solution.</sentence> 
+         <sentence>We <segment verbtenses="simple_present">can</segment> use the local church car park until our own one <segment verbtenses="simple_present">is</segment> ready.</sentence> 
+         <sentence>If you arrive before 8.30 a.m., please use our small car park on Brown Street, and if you <segment verbtenses="simple_present">arrive</segment> after that, you should go directly to the church car park.</sentence> 
+         <sentence>It<segment verbtenses="simple_present">'s</segment> only a five-minute <segment verbtenses="simple_present">walk</segment> away.</sentence> 
+         <sentence>But they <segment verbtenses="simple_present">need</segment> it in the evenings, so you have to leave before 6 p.m.</sentence> 
+         <sentence>Sorry about that &#x2013; I <segment verbtenses="simple_present">know</segment> how much you all <segment verbtenses="simple_present">love</segment> working late!</sentence>
+
+         <sentence>The other thing I <segment verbtenses="simple_past">wanted</segment> to <segment verbtenses="simple_present">tell</segment> you about <segment verbtenses="simple_present">is</segment> that the canteen <segment verbtenses="present_perfect">has now introduced</segment> a cashless payment system.</sentence> 
+         <sentence>So, you <segment verbtenses="simple_present">can</segment>'t use cash for payments any more.</sentence> 
+         <sentence>You <segment verbtenses="simple_present">can</segment> pay directly with your smartphone or you <segment verbtenses="simple_present">can</segment> pay using your company ID card.</sentence> 
+         <sentence>The total amount <segment verbtenses="simple_present">put</segment> on your company ID card <segment verbtenses="simple_present">comes</segment> off your salary at the end of each month.</sentence>
+
+         <sentence>OK.</sentence> 
+         <sentence>That<segment verbtenses="simple_present">'s</segment> it?</sentence> 
+         <sentence>
+            <segment verbtenses="simple_present">Are</segment> there any questions?</sentence>    
+      </paragraph>
+   </body>
+</document>

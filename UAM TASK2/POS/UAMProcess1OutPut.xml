@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<document>
+  <header>
+      <textfile>Texts/final text.txt</textfile>
+    
+  </header>
+    <body>
+      <paragraph>
+         <sentence>Hi, <segment pos="noun">everyone</segment>.</sentence> 
+         <sentence>I <segment pos="verb">know</segment> you<segment pos="verb">'re</segment> all busy so I'll <segment pos="verb">keep</segment> this <segment pos="noun">briefing</segment> quick.</sentence> 
+         <sentence>I <segment pos="verb">have</segment> some important <segment pos="noun">information</segment> 
+            <segment pos="preposition">about</segment> a <segment pos="noun">change</segment> 
+            <segment pos="preposition">in</segment> the <segment pos="noun">management</segment> 
+            <segment pos="noun">team</segment>.</sentence> 
+         <sentence>
+            <sentence>As</sentence> you already <segment pos="verb">know</segment>, our <segment pos="preposition">head</segment> 
+            <segment pos="preposition">of</segment> 
+            <segment pos="preposition">departme</segment>nt, <segment pos="noun">James Watson</segment>, <segment pos="verb">is</segment> 
+            <segment pos="verb">leaving</segment> his <segment pos="noun">position</segment> 
+            <segment pos="preposition">at</segment> the <segment pos="noun">end</segment> 
+            <segment pos="preposition">of</segment> this <segment pos="noun">week</segment>.</sentence> 
+         <sentence>His <segment pos="noun">replacement</segment> 
+            <segment pos="verb">is</segment> 
+            <segment pos="verb">start</segment>ing <segment pos="preposition">at</segment> the <segment pos="noun">en</segment>d <segment pos="preposition">of</segment> the next <segment pos="noun">month</segment>.</sentence> 
+         <sentence>
+            <segment pos="preposition">In</segment> the <segment pos="noun">meantime</segment>, we<segment pos="verb">'ll</segment> 
+            <segment pos="verb">continue</segment> 
+            <segment pos="preposition">with</segment> our <segment pos="noun">projects</segment> 
+            <sentence>as</sentence> usual.</sentence>
+
+         <sentence>I <segment pos="verb">have</segment> two more quick <segment pos="noun">points</segment>.</sentence> 
+         <sentence>Firstly, there <segment pos="verb">will</segment> 
+            <segment pos="verb">be</segment> some <segment pos="noun">improvements</segment> 
+            <segment pos="verb">made</segment> 
+            <segment pos="preposition">to</segment> the <segment pos="noun">staff</segment> 
+            <segment pos="noun">car</segment> 
+            <segment pos="noun">park</segment> next <segment pos="noun">month</segment> 
+            <segment pos="preposition">for</segment> a <segment pos="noun">few weeks</segment>.</sentence> 
+         <sentence>It <segment pos="verb">will</segment> 
+            <segment pos="verb">be</segment> 
+            <segment pos="verb">closed</segment> 
+            <segment pos="preposition">during</segment> that <segment pos="noun">time</segment>.</sentence>
+
+         <sentence>
+            <segment pos="verb">Do</segment>n't <segment pos="verb">worry</segment>, we<segment pos="verb">'ve</segment> 
+            <segment pos="verb">found</segment> a <segment pos="noun">solution</segment>.</sentence> 
+         <sentence>We <segment pos="verb">can</segment> 
+            <segment pos="verb">use</segment> the local <segment pos="noun">church</segment> 
+            <segment pos="noun">car</segment> 
+            <segment pos="noun">park</segment> 
+            <segment pos="preposition">until</segment> our own one <segment pos="verb">is</segment> ready.</sentence> 
+         <sentence>If you <segment pos="verb">arrive</segment> 
+            <segment pos="preposition">before</segment> 8.30 <segment pos="noun">a.m.</segment>, please <segment pos="verb">use</segment> our small <segment pos="noun">car</segment> 
+            <segment pos="noun">park</segment> 
+            <segment pos="preposition">on</segment> 
+            <segment pos="noun">Brown</segment> 
+            <segment pos="noun">Street</segment>, and if you <segment pos="verb">arrive</segment> 
+            <segment pos="preposition">after</segment> that, you <segment pos="verb">should</segment> 
+            <segment pos="verb">go</segment> directly <segment pos="preposition">to</segment> the <segment pos="noun">church</segment> 
+            <segment pos="noun">car</segment> 
+            <segment pos="noun">park</segment>.</sentence> 
+         <sentence>It's only a five-minute <segment pos="verb">walk</segment> away.</sentence> 
+         <sentence>But they <segment pos="verb">need</segment> it in the <segment pos="noun">evenings</segment>, so you <segment pos="verb">have</segment> 
+            <segment pos="preposition">to</segment> 
+            <segment pos="verb">leave</segment> 
+            <segment pos="preposition">before</segment> 6 <segment pos="noun">p.m.</segment>
+         </sentence> 
+         <sentence>Sorry <segment pos="preposition">about</segment> that &#x2013; I <segment pos="verb">know</segment> how much you all <segment pos="verb">love</segment> 
+            <segment pos="verb">working</segment> late!</sentence>
+
+         <sentence>
+            <sentence>The other <segment pos="noun">thing</segment> I <segment pos="verb">wanted</segment> 
+               <segment pos="preposition">to</segment> 
+               <segment pos="verb">tell</segment> you <segment pos="preposition">about</segment> 
+               <segment pos="verb">is</segment> that the <segment pos="noun">canteen <segment pos="verb">has</segment> now <segment pos="verb">introduced</segment> a cashless <segment pos="noun">payment</segment> 
+                  <segment pos="noun">system</segment>.</segment> 
+               <sentence>So, you <segment pos="verb">can</segment>'t <segment pos="verb">use</segment> cash <segment pos="preposition">for</segment> 
+                  <segment pos="noun">payments</segment> any more.</sentence> 
+               <sentence>You <segment pos="verb">can</segment>
+               </sentence> 
+               <segment pos="verb">pay</segment> directly <segment pos="preposition">with</segment> your <segment pos="noun">smartphone</segment> or you <segment pos="verb">can</segment> 
+               <segment pos="verb">pay</segment> 
+               <segment pos="verb">using</segment> your <segment pos="noun">comp</segment>any</sentence> 
+            <segment pos="noun">ID</segment> 
+            <segment pos="noun">card</segment>.</sentence> 
+         <sentence>The total <segment pos="noun">amount</segment> 
+            <segment pos="verb">put</segment> 
+            <segment pos="preposition">on</segment> your <segment pos="noun">company</segment> 
+            <segment pos="noun">ID</segment> 
+            <segment pos="noun">card</segment> 
+            <segment pos="verb">come</segment>s off your <segment pos="noun">salary</segment> at the <segment pos="noun">end</segment> 
+            <segment pos="preposition">of</segment> each <segment pos="noun">month</segment>.</sentence>
+
+         <sentence>OK.</sentence> 
+         <sentence>That<segment pos="verb">'s</segment> it?</sentence> 
+         <sentence>
+            <segment pos="verb">Are</segment> there any <segment pos="noun">questions</segment>?</sentence>    
+      </paragraph>
+   </body>
+</document>
