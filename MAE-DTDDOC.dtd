@@ -1,0 +1,12 @@
+<!ENTITY name "ANNOTATIONDTD">
+
+
+<!ELEMENT VERBTENSES ( #PCDATA ) >
+<!ATTLIST VERBTENSES start #IMPLIED >	
+<!ATTLIST VERBTENSES type ( simple present | present continuous | present perfect | simple past ) #IMPLIED "other" >
+<!ATTLIST VERBTENSES comment CDATA "default value" >
+
+<!ELEMENT POS ( #PCDATA ) >
+<!ATTLIST POS start #IMPLIED >	
+<!ATTLIST POS type ( verb | noun | preposition ) #IMPLIED "other" >
+<!ATTLIST POS comment CDATA "default value" >
